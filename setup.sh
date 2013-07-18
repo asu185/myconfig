@@ -1,5 +1,5 @@
 #!/bin/bash
 
-git clone https://github.com/asu185/myconfig.git
-ln -s myConfig/.vimrc .
-ln -s myConfig/.bashrc .
+#git clone https://github.com/asu185/myconfig.git
+ln -s myconfig/.vimrc .
+ln -s myconfig/.bashrc .
