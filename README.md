@@ -1,5 +1,6 @@
 myconfig
 ========
 
-cd
+cd 
+
 bash ./myconfig/setup.sh
